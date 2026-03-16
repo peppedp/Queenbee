@@ -1,6 +1,6 @@
 # Privacy Policy – QueenBee Planner
 
-**Ultimo aggiornamento:** 12.02.2026
+**Ultimo aggiornamento:** 16.03.2026
 
 QueenBee Planner (“l’App”) è un’applicazione destinata agli apicoltori per la gestione delle attività e delle scadenze legate all’allevamento delle api regine.
 
@@ -22,7 +22,16 @@ Per qualsiasi richiesta relativa alla privacy è possibile contattare il Titolar
 
 ## 2. Dati raccolti
 
-L’App può trattare le seguenti categorie di dati:
+Questa applicazione (“Bee Handfree”) raccoglie dati personali solo per il funzionamento dell’app e la sincronizzazione tra dispositivi tramite Firebase (Google). I dati raccolti includono:
+- Email e password per autenticazione
+- Dati tecnici delle arnie e delle visite
+- Preferenze utente
+
+Non vengono raccolti dati sensibili, né vengono venduti o condivisi con terze parti per fini commerciali. I dati sono conservati su server Google Firebase e accessibili solo all’utente autenticato e, se autorizzato, ai collaboratori del team.
+
+L’app può utilizzare strumenti di analytics anonimi per migliorare il servizio. Nessun dato viene utilizzato per profilazione pubblicitaria.
+
+Vengono in partiolare raccolti i seguenti tipi di dati: 
 
 ### a) Dati forniti dall’utente
 
